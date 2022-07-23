@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/magritte.png"/>
-</p>
-<h1 align="center">
-  jarin.me - v1
-</h1>
-<p align="center">
-  The first iteration of <a href="https://jarin.me" target="_blank">jarin.me</a> built with React.js leveraging Material UI.
-</p>
 
-<img width="1306" alt="Screen Shot 2021-03-15 at 8 29 18 PM" src="https://user-images.githubusercontent.com/32211479/111238274-24f8b100-85cd-11eb-9d5a-00f07cbc05e9.png">
+# fathima-farwin
+![image](https://user-images.githubusercontent.com/85069153/180588354-1acd9d2f-ae60-4033-9d8a-108fc38b4239.png)
+
+![image](https://user-images.githubusercontent.com/85069153/180588339-3ac67ce3-d4ca-4f99-b949-e3d4edf86361.png)
+
+![image](https://user-images.githubusercontent.com/85069153/180588370-9ecc59f8-c5fe-4f3e-9a5f-45b1474f6409.png)
 
 ## 🛠 set-up
 
